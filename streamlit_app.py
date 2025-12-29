@@ -1,7 +1,6 @@
 import streamlit as st
 from snowflake.snowpark.functions import col
 st.title(f":cup_with_straw: Customer Smoothie Order Form :cup_with_straw:")
-# st.title('My Parents New Healthy Diner')
 st.write(
   """Replace this example with your own code!
   **And if you're new to Streamlit,** check
